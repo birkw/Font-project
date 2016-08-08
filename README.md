@@ -1,6 +1,6 @@
-# FONTGUIDE 4 THE KNOWLEDGABLE
+#<p align: "center"> FONTGUIDE 4 THE KNOWLEDGABLE</p>
 
-Acne Paper:
-Modern NO 20. - Rubics CUBE
-Bembo Book - Bread
-
+---
+<p>Acne Paper:</br>
+Modern NO 20. - Rubics CUBE</br>
+Bembo Book - Bread</p>
